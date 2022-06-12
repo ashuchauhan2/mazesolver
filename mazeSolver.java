@@ -8,7 +8,6 @@ public class mazeSolver {
     private ASCIIDataFile input;
     private ASCIIOutputFile output;
     private char [][] maze;
-    private int [] nums = new int[] { -1,0,3,5,9,12 };
     private int i, j, f, s;
 
     public mazeSolver(){
